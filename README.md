@@ -1,13 +1,13 @@
 # operators-control-flow
 
-Assignment 1
+# Assignment 1
 Arithmetic Operators: +, -, /, *, %, **, ++, --
 Assignment Operators: =
 Comparison Operators: >, <, <=, >=, ==, ===, !==, !=
 Logical Operators: ||, &&, !, ??
 Bitwise Operators: &, |, ^, ~, <<, >>, >>>
 
-Assignment 2
+# Assignment 2
 
 Arithmetic Operators:
 
@@ -42,7 +42,7 @@ a &= 2; //0
 
 // Expected output: 7
 
-Assignment 4
+# Assignment 4
 
 for (let i = 1; i < 20; i += 7) { console.log(i) }
 
